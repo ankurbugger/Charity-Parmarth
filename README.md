@@ -4,9 +4,9 @@ Welcome to the Parmarth, the social club of Institute of Engineering and Technol
 
 This Website is well made for this Social Club who wants to help the needy person.
 In this i have implemented all types of pages which can be used by social clubs.
-It consists of : Index Page
-                 About Page
-                 Events Page
-                 Gallery Page
-                 Contact Page
+It consists of : Index Page,
+                 About Page,
+                 Events Page,
+                 Gallery Page,
+                 Contact Page,
                  Donate Page
